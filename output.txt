@@ -1,10 +1,9 @@
-Value of x is 9 and y is 69
-Value of z is 9223372036854775807
-Value of a is 9223372036854775277
-Value of b is 9.21208
-Value of c is 2.10921
-Hey
-te amor
-Hey man, waddup?
-Omkar Ashok Korade
-A
+5 5 5 5 5 5 5 5 5 
+5 4 4 4 4 4 4 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 2 1 2 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 4 4 4 4 4 4 5 
+5 5 5 5 5 5 5 5 5 

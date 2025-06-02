@@ -4,10 +4,9 @@
         {
             "label": "compile",
             "type": "shell",
-            "command": "g++-14",
+            "command": "g++",
             "args": [
                 "-std=c++17",
-                "-I.",
                 "-o",
                 "${fileBasenameNoExtension}",
                 "${file}"
@@ -20,7 +19,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "g++-14 -std=c++17 -o ${fileBasenameNoExtension} ${file} && ./${fileBasenameNoExtension} < input.txt > output.txt",
+            "command": "g++ -std=c++17 -o ${fileBasenameNoExtension} ${file} && ./${fileBasenameNoExtension} < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
